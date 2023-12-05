@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Whisky a.k.a @Tinkermaniac
-  
-- 👀 I’m interested in Arduino, C++, HTML, CSS, IoT, NodeMCU, Electronics, and Linux
-  
-- 🌱 I’m currently researching on how to make your own websites and link them directly with your IoT setup, (like NodeMCU, or ESP8266 ) with user requests
-  
-- 💞️ I’m looking to collaborate on IoT Systems as mentioned above
+» Hi, I am @tinkermaniac, my real name is Ritwik.
 
-- 📫 How to reach me :----
-  
-- You can reach me at discord at   :             Whisky#8106
+» I am a freelance software developer. I have developed the website which won platinum award in International Cyberfair 2023 under the category of 'local specialities' and gold award in International Cyberfair 2022 under environmental awareness. I have an experience of 3-4 years.
+
+» I am comfortable with Html, css, php, js, python, c, c++, sql. 
+
+» Additionally, I have experience with IoT, Arduino, NodeMCU, Raspberry Pi, Linux.
+
+» For business enquiry (email) : tinkermaniac@cyberservices.com  
+
+» You can reach me at discord at   :             Whisky#8106
