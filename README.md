@@ -1,4 +1,4 @@
-» Hi, I am @tinkermaniac, my real name is Ritwik. [ Owner of Tinkermaniac Cyberservices ]
+» Hi, I am @tinkermaniac, my real name is Ritwik. [ President of Tinkermaniac Cyberservices ]
 
 » I am the owner of TMCS, though we have discontinued the botnet stuff, you may reach out at my discord ;) . Official members or ex-members of TMCS may access the portal with verified IPs. 
 
@@ -13,3 +13,5 @@
 » For business enquiry (email) : tinkermaniac@cyberservices.com  
 
 » You can reach me at discord at   :             Whisky#8106
+
+» Portal for members and ex-members of TMCS : https://tinkermaniac.me/
