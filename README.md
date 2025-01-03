@@ -14,4 +14,4 @@
 
 » You can reach me at discord at   :             Whisky#8106
 
-» Portal for clients and members of TMCS : https://tinkermaniac.me/
+» Portal for clients and members of TMCS : [~]
